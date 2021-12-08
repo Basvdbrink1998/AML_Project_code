@@ -3,3 +3,5 @@ models_sample/saved_model.pb
 models_sample/variables/variables.data-00000-of-00001
 models_sample/keras_metadata.pb
 models_sample/variables/variables.index
+.ipynb_checkpoints
+logs
